@@ -1,0 +1,30 @@
+MANUAL DE INSTALACIÓN:
+
+PARA INCIAR EL BACK-END:
+
+PASO 1: Abrir el XAMPP e iniciar Apache y MySQL.
+
+Paso 2: Abrir el ¨Admin¨ el cual nos lleva a LocalHost y asi poder ver la base de datos del profesor llamada ¨api-crud¨.
+
+Paso 3: Abrir la carpeta ¨api¨ en VisualStudioCode, una vez ahi abrir la terminal de ¨git bash¨ desde Visual.
+
+Paso 4: Acceder a la carpeta ¨Projects_node¨ y luego a la carpeta ¨api_basic¨ que es donde esta toda la informacion de la api.
+
+Paso 5: Luego escribir desde la misma terminal ¨npm install¨ para asi actualizar y evitar fallos.
+
+Paso 6: Iniciar la api con ¨npm run dev¨ desde la misma terminal y asi ya estaras conectado.
+
+PARA INICIAR EL FRONT:
+
+PASO 1: Abrir la carpeta ¨flutter¨ en una pestaña nueva de VisualStudioCode.
+
+PASO 2: Abrir la terminal en ¨git bash¨.
+
+PASO 3: Escribir ¨flutter upgrade¨ para actualizarlo y asi evitar fallos.
+
+PASO 4: Iniciar el front con ¨flutter run¨ desde la misma terminal y elegir la opcion con el numero que representa a Google.
+
+
+RECOMENDACION: Tener el PostMan abierto y verificar que este funcionando con la base de datos del profesor para asi poder hacer las diferentes peticiones.
+
+ 
